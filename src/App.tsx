@@ -203,7 +203,7 @@ export default function App() {
           <FadeIn direction="up" delay={0.4} className="flex-1 w-full max-w-sm md:max-w-none">
             <div className="relative aspect-[4/5] rounded-3xl overflow-hidden shadow-[0_0_100px_rgba(255,255,255,0.05)] group">
               <motion.img 
-                src="/alan_chung.jpg" 
+                src="/alanchung.jpg" 
                 alt="Alan Chung Profile" 
                 className="w-full h-full object-cover grayscale opacity-90 transition-all duration-1000 group-hover:scale-110 group-hover:grayscale-0 group-hover:opacity-100"
                 referrerPolicy="no-referrer"
